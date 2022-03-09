@@ -1,0 +1,23 @@
+using System;
+
+namespace metod
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int number = 50;
+        }
+        public static int Divide(int=i)
+        {
+            if (number % 7 == 0)
+            {
+                Console.WriteLine("7-ye bolunur");
+            }
+            else (number % 7 != 0)
+            {
+                for(int num in number)
+            }
+        }
+    }
+}
